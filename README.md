@@ -1,36 +1,46 @@
-### Hi there 👋
+### Hi there! I'm Hemanth 👋
 
 <p align="center">
 <a href="https://github.com/Komarala">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=14&duration=2000&pause=100&&color=2FB634&multiline=true&width=500&height=80&lines=Chemnitz+Germany;AI+Enthusiast+%7C+Masters+Student;Automotive+Software+Engineer;AI+%7C+Computer+Vision+%7C+Bots" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=FF5A00&multiline=true&width=600&height=100&lines=Senior+AI+%26+Embedded+Software+Engineer;Bridging+AI+with+Safety-Critical+Systems;M.Sc.+Automotive+Software+Engineering;Building+Agentic+Workflows+%26+LLMs" alt="Typing SVG" />
 </a>
-
-<a href="https://github.com/Komarala">
-    <img src="https://github-stats-alpha.vercel.app/api?username=Komarala&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
-</a>
-
 </p>
 
-* 📖 Pursuing Masters in Automotive Software Engineering @ [TU Chemnitz](https://www.tu-chemnitz.de/informatik/studium/studiengaenge/index.php.en?page=ma_ase).
+---
 
-* 💡 Open to collaborating on projects and innovative ideas. 
+## 🚀 About Me
+I am a **Senior AI & Embedded Software Engineer** with over 5 years of practical experience. My work exists at the intersection of deterministic reliability (Automotive Embedded Systems) and dynamic potential (Generative AI). I bring a "builder mentality" backed by rigorous quality standards like **ASPICE** and **ISO 26262**.
 
-* 💻 Currently working on Mobile light weight networks for image recognition.
+* 🎓 **M.Sc. Automotive Software Engineering** @ [TU Chemnitz](https://www.tu-chemnitz.de/informatik/studium/studiengaenge/ma_automotive_software_engineering.php) (Thesis: AI framework for automated generation of source code from requirements).
+* 💻 **Currently working on:** Advanced multi-agent LLM workflows (LangGraph, AutoGen) and edge-AI optimizations.
+* 📫 **Reach me at:** [komaralahemanth@gmail.com](mailto:komaralahemanth@gmail.com)
+* 🌐 **Portfolio:** [hemanth-komarala.netlify.app](https://hemanth-komarala.netlify.app/)
 
-* 📫 Reach me @ komaralahemanth@gmail.com
+---
 
-</details>
-<!--
-**Komarala/Komarala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Core Tech Stack
 
-Here are some ideas to get you started:
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **AI / Machine Learning** | Python, Generative AI, LangGraph, AutoGen, PyTorch, RAG |
+| **Embedded & Automotive** | C/C++, Classic AUTOSAR, CAN-FD, UDS, Trace32, ISO 26262 |
+| **DevOps & Cloud** | Linux, Docker, Kubernetes, CI/CD (Jenkins, GitHub Actions), Terraform |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<a href="https://github.com/Komarala">
+    <img src="https://github-readme-stats.vercel.app/api?username=Komarala&show_icons=true&theme=tokyonight&count_private=true" alt="Hemanth's GitHub Stats" />
+</a>
+<a href="https://github.com/Komarala">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Komarala&layout=compact&theme=tokyonight" alt="Top Langs" />
+</a>
+</p>
+
+<p align="center">
+<a href="https://github.com/Komarala">
+  <img src="https://github-profile-trophy.vercel.app/?username=Komarala&theme=tokyonight&column=7&no-bg=true" alt="GitHub Trophies" />
+</a>
+</p>
