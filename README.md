@@ -32,15 +32,12 @@ I am a **Senior AI & Embedded Software Engineer** with over 5 years of practical
 
 <p align="center">
 <a href="https://github.com/Komarala">
-    <img src="https://github-readme-stats.vercel.app/api?username=Komarala&show_icons=true&theme=tokyonight&count_private=true" alt="Hemanth's GitHub Stats" />
-</a>
-<a href="https://github.com/Komarala">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Komarala&layout=compact&theme=tokyonight" alt="Top Langs" />
+    <img src="https://github-stats.vercel.app/api?username=Komarala&show_icons=true&theme=tokyonight&count_private=true" alt="Hemanth's GitHub Stats" />
 </a>
 </p>
 
 <p align="center">
 <a href="https://github.com/Komarala">
-  <img src="https://github-profile-trophy.vercel.app/?username=Komarala&theme=tokyonight&column=7&no-bg=true" alt="GitHub Trophies" />
+  <img src="https://github-trophy.vercel.app/?username=Komarala&theme=tokyonight&column=7" alt="GitHub Trophies" />
 </a>
 </p>
